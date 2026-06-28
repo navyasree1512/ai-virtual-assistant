@@ -1,0 +1,8 @@
+Dataset Name:
+Google Speech Commands Dataset v0.02
+
+Source:
+https://www.kaggle.com/datasets/yashdogra/speech-commands
+
+Description:
+This dataset contains one-second audio recordings of spoken commands such as "yes", "no", "up", "down", "left", "right", "go", "stop", and more. It is used for speech recognition and keyword spotting.
