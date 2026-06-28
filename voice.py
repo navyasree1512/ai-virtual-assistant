@@ -11,7 +11,7 @@ engine.setProperty("voice", voices[0].id)
 
 def speak(text):
     print("Assistant:", text)
-    engine.say(text)
+    engine.say(str(text))
     engine.runAndWait()
 
 
